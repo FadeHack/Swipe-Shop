@@ -4,6 +4,10 @@ SwipeShop is a modern mobile-first shopping app with a Tinder-like swiping inter
 
 ---
 
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://upload.app/download/swipeshop/io.swipeshop.app/60445cb2e0539c8d5f6e4df5f12646cf5dd3dc70997b7925bc56d20958681355)
+
+---
+
 ## ✨ Features Overview
 
 - **Product Discovery:** Swipe right to like, left to pass, up to add to cart
