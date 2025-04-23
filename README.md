@@ -81,8 +81,8 @@ SwipeShop is a modern mobile-first shopping app with a Tinder-like swiping inter
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/swipeshop.git
-cd swipeshop
+git clone https://github.com/yourusername/Swipe-Shop.git
+cd Swipe-Shop
 ```
 
 ### 2. Install Dependencies
